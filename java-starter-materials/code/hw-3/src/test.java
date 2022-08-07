@@ -1,12 +1,7 @@
 public class test {
-    static int method(int a) {
-        int b = a + 2;
-        return b;
-    }
-
     public static void main(String[] args) {
-        int operand = 3;
-        int result = method(operand);
-        System.out.println(operand + "; " + result + ";");
+        long l = 1200000;
+        float f = 120.00f;
+        double d = 120.00;
     }
 }
